@@ -3,8 +3,12 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+}
+
+.Ping-logo{
+	height: 10vmin;
 }
 
 @media (prefers-reduced-motion: no-preference) {
